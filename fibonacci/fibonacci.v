@@ -1,7 +1,7 @@
 //
 //V module to get Fibonacci numbers
 //Author:Zach721
-//You can this code for free to your
+//You can use this code for free to your
 //own projects and purposes
 //
 
